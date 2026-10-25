@@ -1,0 +1,11 @@
+/* 게임별 약관·개인정보처리방침 공통 모양 — 원문 HTML(생성기 출력)을 그대로 두고 읽기 좋게만 */
+body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;color:#3b2c28;background:#fffefa;line-height:1.75;word-break:keep-all}
+header{background:#367564!important}
+.policy_container{max-width:860px;margin:40px auto 60px!important;padding:0 20px}
+.policy_container h3{font-size:1.1rem;margin:2.2em 0 .6em;color:#286151}
+.policy_container p,.policy_container li{font-size:.95rem}
+._variableText_1k2sc_51{font-weight:600}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.9rem}
+th,td{border:1px solid #e5e4dc;padding:8px 10px;text-align:left;vertical-align:top}
+thead th,thead td{background:#f0f1eb}
+.policy-home{display:block;max-width:860px;margin:0 auto 40px;padding:0 20px;font-size:.9rem;color:#367564}
