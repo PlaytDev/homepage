@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.playtstudio.kr/sitemap.xml
+
+#DaumWebMasterTool:03dfc2914606a3dff302133b075954b0255e868f9457be8aecd95291b8699425:kHsTc7yt7rZFR+42wFNLLw==
